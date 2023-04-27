@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="694e58a7-33b6-4456-b655-db3bde9ed7b9" name="Changes" comment="Criando exceções com a classe BoardException">
-      <change afterPath="$PROJECT_DIR$/src/chess/ChessException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chess/ChessPosition.java" afterDir="false" />
+    <list default="true" id="694e58a7-33b6-4456-b655-db3bde9ed7b9" name="Changes" comment="ChessException e ChessPosition">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1682512334048</updated>
       <workItem from="1682512335047" duration="4184000" />
-      <workItem from="1682545981665" duration="4886000" />
+      <workItem from="1682545981665" duration="5105000" />
+      <workItem from="1682604812415" duration="3691000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial">
       <created>1682512536031</created>
@@ -124,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682549506606</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ChessException e ChessPosition">
+      <created>1682551991715</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682551991715</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +144,7 @@
     <MESSAGE value="Camada de xadrez e printando o tabuleiro" />
     <MESSAGE value="Colocando peças no tabuleiro" />
     <MESSAGE value="Criando exceções com a classe BoardException" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando exceções com a classe BoardException" />
+    <MESSAGE value="ChessException e ChessPosition" />
+    <option name="LAST_COMMIT_MESSAGE" value="ChessException e ChessPosition" />
   </component>
 </project>
