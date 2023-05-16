@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="694e58a7-33b6-4456-b655-db3bde9ed7b9" name="Changes" comment="Printando o projeto no terminal">
+    <list default="true" id="694e58a7-33b6-4456-b655-db3bde9ed7b9" name="Changes" comment="Movendo peças">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boardgame/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boardgame/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +81,14 @@
       <workItem from="1682512335047" duration="4184000" />
       <workItem from="1682545981665" duration="5105000" />
       <workItem from="1682604812415" duration="4033000" />
-      <workItem from="1683032799531" duration="2493000" />
+      <workItem from="1683032799531" duration="2683000" />
+      <workItem from="1683119974956" duration="595000" />
+      <workItem from="1683495269316" duration="35000" />
+      <workItem from="1683741203749" duration="84000" />
+      <workItem from="1683745212315" duration="11000" />
+      <workItem from="1683924862746" duration="15000" />
+      <workItem from="1684173392118" duration="144000" />
+      <workItem from="1684243232250" duration="1209000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial">
       <created>1682512536031</created>
@@ -142,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682610441040</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Movendo peças">
+      <created>1683038162387</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683038162387</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +168,7 @@
     <MESSAGE value="Criando exceções com a classe BoardException" />
     <MESSAGE value="ChessException e ChessPosition" />
     <MESSAGE value="Printando o projeto no terminal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Printando o projeto no terminal" />
+    <MESSAGE value="Movendo peças" />
+    <option name="LAST_COMMIT_MESSAGE" value="Movendo peças" />
   </component>
 </project>
