@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="694e58a7-33b6-4456-b655-db3bde9ed7b9" name="Changes" comment="Movimentos possiveis de uma peça">
+    <list default="true" id="694e58a7-33b6-4456-b655-db3bde9ed7b9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boardgame/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boardgame/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessPiece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessPiece.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/pieces/Rook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/pieces/Rook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -90,7 +90,8 @@
       <workItem from="1683745212315" duration="11000" />
       <workItem from="1683924862746" duration="15000" />
       <workItem from="1684173392118" duration="144000" />
-      <workItem from="1684243232250" duration="3498000" />
+      <workItem from="1684243232250" duration="4430000" />
+      <workItem from="1684330114817" duration="929000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial">
       <created>1682512536031</created>
@@ -169,11 +170,35 @@
       <option name="project" value="LOCAL" />
       <updated>1684245820031</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Implementando movimentos possíveis da Torre">
+      <created>1684247189445</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1684247189445</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit inicial" />
@@ -187,6 +212,7 @@
     <MESSAGE value="Movendo peças" />
     <MESSAGE value="Tratando exceções e limpando a tela" />
     <MESSAGE value="Movimentos possiveis de uma peça" />
-    <option name="LAST_COMMIT_MESSAGE" value="Movimentos possiveis de uma peça" />
+    <MESSAGE value="Implementando movimentos possíveis da Torre" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementando movimentos possíveis da Torre" />
   </component>
 </project>
