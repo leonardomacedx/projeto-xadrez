@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="694e58a7-33b6-4456-b655-db3bde9ed7b9" name="Changes" comment="Imprimindo movimentos possíveis">
+    <list default="true" id="694e58a7-33b6-4456-b655-db3bde9ed7b9" name="Changes" comment="Implementando os movimentos possíveis do Rei">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/pieces/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/pieces/King.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +91,9 @@
       <workItem from="1683924862746" duration="15000" />
       <workItem from="1684173392118" duration="144000" />
       <workItem from="1684243232250" duration="4430000" />
-      <workItem from="1684330114817" duration="2639000" />
+      <workItem from="1684330114817" duration="3351000" />
+      <workItem from="1684850852142" duration="595000" />
+      <workItem from="1684930213165" duration="637000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial">
       <created>1682512536031</created>
@@ -182,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684331360052</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Implementando os movimentos possíveis do Rei">
+      <created>1684333041846</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1684333041846</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +230,7 @@
     <MESSAGE value="Movimentos possiveis de uma peça" />
     <MESSAGE value="Implementando movimentos possíveis da Torre" />
     <MESSAGE value="Imprimindo movimentos possíveis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Imprimindo movimentos possíveis" />
+    <MESSAGE value="Implementando os movimentos possíveis do Rei" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementando os movimentos possíveis do Rei" />
   </component>
 </project>
