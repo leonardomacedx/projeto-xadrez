@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="694e58a7-33b6-4456-b655-db3bde9ed7b9" name="Changes" comment="Lógica do checkmate">
+    <list default="true" id="694e58a7-33b6-4456-b655-db3bde9ed7b9" name="Changes" comment="Contagem de movimentos das peças">
+      <change afterPath="$PROJECT_DIR$/src/chess/pieces/Pawn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessPiece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessPiece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +94,7 @@
       <workItem from="1684850852142" duration="595000" />
       <workItem from="1684930213165" duration="6002000" />
       <workItem from="1685023683615" duration="3723000" />
-      <workItem from="1685105585909" duration="1857000" />
+      <workItem from="1685105585909" duration="4106000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial">
       <created>1682512536031</created>
@@ -221,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685106073488</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Contagem de movimentos das peças">
+      <created>1685107937398</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1685107937398</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,6 +271,7 @@
     <MESSAGE value="Manipulando peças capturadas" />
     <MESSAGE value="Lógica do check" />
     <MESSAGE value="Lógica do checkmate" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lógica do checkmate" />
+    <MESSAGE value="Contagem de movimentos das peças" />
+    <option name="LAST_COMMIT_MESSAGE" value="Contagem de movimentos das peças" />
   </component>
 </project>
