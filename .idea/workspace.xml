@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="694e58a7-33b6-4456-b655-db3bde9ed7b9" name="Changes" comment="Contagem de movimentos das peças">
-      <change afterPath="$PROJECT_DIR$/src/chess/pieces/Knight.java" afterDir="false" />
+    <list default="true" id="694e58a7-33b6-4456-b655-db3bde9ed7b9" name="Changes" comment="Cavalo">
+      <change afterPath="$PROJECT_DIR$/src/chess/pieces/Queen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
@@ -94,7 +94,7 @@
       <workItem from="1684850852142" duration="595000" />
       <workItem from="1684930213165" duration="6002000" />
       <workItem from="1685023683615" duration="3723000" />
-      <workItem from="1685105585909" duration="6064000" />
+      <workItem from="1685105585909" duration="7430000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial">
       <created>1682512536031</created>
@@ -229,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685107937398</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Cavalo">
+      <created>1685113609154</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1685113609154</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,6 +279,7 @@
     <MESSAGE value="Lógica do check" />
     <MESSAGE value="Lógica do checkmate" />
     <MESSAGE value="Contagem de movimentos das peças" />
-    <option name="LAST_COMMIT_MESSAGE" value="Contagem de movimentos das peças" />
+    <MESSAGE value="Cavalo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cavalo" />
   </component>
 </project>
