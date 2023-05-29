@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="694e58a7-33b6-4456-b655-db3bde9ed7b9" name="Changes" comment="Cavalo">
-      <change afterPath="$PROJECT_DIR$/src/chess/pieces/Queen.java" afterDir="false" />
+    <list default="true" id="694e58a7-33b6-4456-b655-db3bde9ed7b9" name="Changes" comment="Rainha e consertando bug do Peão">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/pieces/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/pieces/King.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +94,10 @@
       <workItem from="1684850852142" duration="595000" />
       <workItem from="1684930213165" duration="6002000" />
       <workItem from="1685023683615" duration="3723000" />
-      <workItem from="1685105585909" duration="7430000" />
+      <workItem from="1685105585909" duration="7593000" />
+      <workItem from="1685135178836" duration="511000" />
+      <workItem from="1685213616549" duration="15000" />
+      <workItem from="1685371001763" duration="4755000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial">
       <created>1682512536031</created>
@@ -236,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685113609154</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Rainha e consertando bug do Peão">
+      <created>1685114778487</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1685114778487</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,6 +290,7 @@
     <MESSAGE value="Lógica do checkmate" />
     <MESSAGE value="Contagem de movimentos das peças" />
     <MESSAGE value="Cavalo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cavalo" />
+    <MESSAGE value="Rainha e consertando bug do Peão" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rainha e consertando bug do Peão" />
   </component>
 </project>
